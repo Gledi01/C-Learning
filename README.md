@@ -12,7 +12,7 @@ Repositori ini berisi kumpulan latihan dan contoh program C++ dasar yang saya bu
 - 🧠 Function
 - 📦 Array & String
 - 🏗️ OOP Dasar
-- 🛒 Mini Project (Kasir Sederhana)
+- 🛒 Mini Project (sesuai dengan yang telah di pelajari)
 
 ---
 
