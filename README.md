@@ -43,19 +43,19 @@ g++ nama_file.cpp -o app
 
 ---
 
-## 📊 Tabel perbandingan C++ dengan Python
+## 📊 Tabel perbandingan
 
-| Aspek                  | C++                                         | Python                                    |
-|------------------------|--------------------------------------------|-------------------------------------------|
-| **Tipe Bahasa**         | Compiled, statically typed                 | Interpreted, dynamically typed            |
-| **Kecepatan Eksekusi**  | Sangat cepat, dekat dengan hardware       | Lebih lambat karena interpretasi runtime  |
-| **Sintaksis**           | Ketat, lebih verbose, membutuhkan `;` dan `{}` | Sederhana, bersih, berbasis indentasi     |
-| **Manajemen Memori**    | Manual (`malloc/free`, `new/delete`)      | Otomatis (garbage collector)              |
-| **Paradigma**           | Procedural, Object-Oriented, Generic      | Procedural, Object-Oriented, Functional  |
-| **Portabilitas**        | Harus dikompilasi untuk tiap platform     | Langsung dijalankan di berbagai platform  |
-| **Standard Library**    | STL (Standard Template Library)           | Banyak library built-in dan pihak ketiga |
-| **Penggunaan Umum**     | Game engine, software sistem, aplikasi performa tinggi | Web development, data science, scripting |
-| **Keamanan Tipe**       | Kuat, compiler cek tipe                    | Lebih fleksibel, tipe dicek saat runtime |
+| Aspek                  | C++                         | Python                        | Go                           | Rust                          | JavaScript                  | Java                        | Ruby                       |
+|------------------------|----------------------------|-------------------------------|-------------------------------|-------------------------------|-----------------------------|----------------------------|----------------------------|
+| **Tipe Bahasa**         | Compiled, statically typed | Interpreted, dynamically typed | Compiled, statically typed   | Compiled, statically typed    | Interpreted, dynamically typed | Compiled & JIT, statically typed | Interpreted, dynamically typed |
+| **Kecepatan Eksekusi**  | Sangat cepat               | Lebih lambat                  | Cepat, ringan                 | Cepat, performa tinggi        | Lambat, tergantung engine   | Cepat, JVM optimize       | Sedang, lebih lambat       |
+| **Sintaksis**           | Ketat, verbose             | Sederhana, clean              | Bersih, minimalis             | Bersih, aman & ekspresif      | Fleksibel, bisa messy       | Verbose, but familiar     | Bersih & ekspresif         |
+| **Manajemen Memori**    | Manual (`new/delete`)      | Garbage collector             | Garbage collector             | Ownership & borrowing         | Garbage collector           | Garbage collector         | Garbage collector         |
+| **Paradigma**           | Procedural, OOP, Generic   | Procedural, OOP, Functional  | Procedural, Concurrent        | Procedural, OOP, Functional  | Functional, OOP, Event-driven | OOP, Procedural           | OOP, Functional           |
+| **Portabilitas**        | Kompilasi untuk tiap platform | Langsung dijalankan          | Cross-platform                | Cross-platform                | Browser & server           | Cross-platform            | Cross-platform            |
+| **Standard Library**    | STL                        | Banyak built-in & third-party | Standard library solid        | Standard library + crates     | Built-in + npm             | Rich API, standard lib    | Rich API, gems             |
+| **Penggunaan Umum**     | Game, sistem, performa tinggi | Data science, scripting, web | Cloud, networking, system tools | Sistem, performa tinggi       | Web front-end/back-end     | Enterprise, Android apps  | Web apps, scripting       |
+| **Keamanan Tipe**       | Kuat, compile-time check   | Fleksibel, runtime check      | Kuat, compile-time check      | Sangat kuat, compile-time check | Fleksibel, runtime check   | Kuat, compile-time check  | Fleksibel, runtime check  |
 
 ---
 
