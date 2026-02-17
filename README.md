@@ -1,6 +1,10 @@
+
 # 🚀 C++ Dasar
 
 Repositori ini berisi kumpulan latihan dan contoh program C++ dasar yang saya buat selama proses belajar.
+
+---
+![Logo C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
 
 ---
 
